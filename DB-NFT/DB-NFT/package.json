@@ -20,6 +20,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^2.1.8",
     "@openzeppelin/contracts": "^4.4.1",
+    "create-react-app": "^5.0.0",
     "dotenv": "^10.0.0",
     "hardhat-gas-reporter": "^1.0.6",
     "solidity-coverage": "^0.7.17"
